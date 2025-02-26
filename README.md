@@ -52,9 +52,9 @@ git clone https://github.com/IgorTecnologia/api-comercio.git
 
 Download these files and import them into your Postman to use the ready-made HTTP methods along with the already configured environment variables, to perform the requests/responses
 
-[Download Collections](https://github.com/IgorTecnologia/api-comercio/blob/docs-postman/Api-comercio-collection.json)
+[Download Collections](https://github.com/Igorgcf/api-comercio/blob/docs-postman/Api-comercio-collection.json)
 
-[Download Environment variables](https://github.com/IgorTecnologia/api-comercio/blob/docs-postman/Local-%20host-environment.json)
+[Download Environment variables](https://github.com/Igorgcf/api-comercio/blob/docs-postman/Local-%20host-environment.json)
 
 ## API Endpoints
 The API provides the following endpoints:
